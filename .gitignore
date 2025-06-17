@@ -1,0 +1,6 @@
+*.zip
+
+# dont push rubbish onto github pls
+testcase/3/
+testcase/4/
+testcase/5/
